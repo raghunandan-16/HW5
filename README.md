@@ -6,4 +6,4 @@ Gokul
 Haricharan
 Raghunandan
 
-![Webpage Screenshot](HW5/HW_5_4.png)
+![Webpage Screenshot](HW_5_4.PNG)
